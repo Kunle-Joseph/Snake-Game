@@ -7,7 +7,7 @@ body {
     position: relative;
     width: 600px;
     height: 500px;
-    border: 2px solid #dc042c;
+    border: 2px solid #b4dc04;
     border-radius: 10px;
     margin: 50px auto;
     display: flex;
@@ -32,7 +32,7 @@ body {
     position: absolute;
     width: 2%;
     height: 2%;
-    background-color: #dc042c;
+    background-color: #b4dc04;
     border: 1px solid white;
     z-index: 2;
 }
